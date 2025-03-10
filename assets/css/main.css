@@ -1012,6 +1012,9 @@ section,
   border-radius: 50px;
 }
 
+.cccc{
+  padding-top: 30px;
+}
 .contact .php-email-form button[type=submit]:hover {
   background: color-mix(in srgb, var(--accent-color), transparent 25%);
 }
@@ -1051,6 +1054,9 @@ section,
   padding-bottom: 20px;
   border-bottom: 1px solid color-mix(in srgb, var(--default-color), transparent 85%);
 }
+
+
+
 
 .portfolio-details .portfolio-info ul {
   list-style: none;
