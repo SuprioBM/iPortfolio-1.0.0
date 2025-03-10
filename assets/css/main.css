@@ -636,6 +636,9 @@ section,
     min-height: 100vw;
     height: auto; /* Allow content to define height */
   }
+  #img{
+   object-position: 80%;
+  }
 }
 
 /*--------------------------------------------------------------
@@ -1167,9 +1170,7 @@ section,
 
   
 }
-.btn-group{
-  left: 120px;
-}
+
 }
 
 
